@@ -30,7 +30,7 @@
     },
     {
       "tipo": "spoiler",
-      "texto": "SLIDE: <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+      "texto": "SLIDE:",
       "conteudo": [
         {
           "tipo": "descricao",
@@ -64,7 +64,7 @@
     },
     {
       "tipo": "spoiler",
-      "texto": "JOGO: <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+      "texto": "JOGO:",
       "conteudo": [
         {
           "tipo": "texto",
@@ -446,7 +446,7 @@
     },
     {
       "tipo": "spoiler",
-      "texto": "Caso o policial saiba os comandos: <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+      "texto": "Caso o policial saiba os comandos:",
       "conteudo": [
         {
           "tipo": "texto",
@@ -492,7 +492,7 @@
     },
     {
       "tipo": "spoiler",
-      "texto": "Caso o policial NÃO saiba os comandos: <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+      "texto": "Caso o policial NÃO saiba os comandos:",
       "conteudo": [
         {
           "tipo": "texto",
@@ -638,7 +638,7 @@
     },
     {
       "tipo": "spoiler",
-      "texto": "NEGRITO<span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+      "texto": "NEGRITO:",
       "conteudo": [
         {
           "tipo": "titulo",
@@ -658,7 +658,7 @@
         },
         {
           "tipo": "spoiler",
-          "texto": "Launcher (versão moderna)/Navegador/Mobile (versão nova): <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+          "texto": "Launcher (versão moderna)/Navegador/Mobile (versão nova):",
           "conteudo": [
             {
               "tipo": "texto",
@@ -672,7 +672,7 @@
         },
         {
           "tipo": "spoiler",
-          "texto": "Mobile (versão antiga): <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+          "texto": "Mobile (versão antiga):",
           "conteudo": [
             {
               "tipo": "texto",
@@ -690,7 +690,7 @@
         },
         {
           "tipo": "spoiler",
-          "texto": "Launcher (versão clássica): <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+          "texto": "Launcher (versão clássica):",
           "conteudo": [
             {
               "tipo": "texto",
@@ -804,7 +804,7 @@
     },
     {
       "tipo": "spoiler",
-      "texto": "SLIDE: <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+      "texto": "SLIDE:",
       "conteudo": [
         {
           "tipo": "descricao",
@@ -942,7 +942,7 @@
     },
     {
       "tipo": "spoiler",
-      "texto": "APROVADO: <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+      "texto": "APROVADO:",
       "conteudo": [
         {
           "tipo": "texto",
@@ -1000,7 +1000,7 @@
     },
     {
       "tipo": "spoiler",
-      "texto": "REPROVADO: <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+      "texto": "REPROVADO:",
       "conteudo": [
         {
           "tipo": "texto",
@@ -1088,7 +1088,7 @@
     },
     {
       "tipo": "spoiler",
-      "texto": "SLIDE: <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+      "texto": "SLIDE:",
       "conteudo": [
         {
           "tipo": "descricao",
@@ -1122,7 +1122,7 @@
     },
     {
       "tipo": "spoiler",
-      "texto": "<span style=\"font-size: 14px;\">MENSAGENS NO JOGO:</span>  <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+      "texto": "MENSAGENS NO JOGO:",
       "conteudo": [
         {
           "tipo": "titulo",
@@ -1384,7 +1384,7 @@
     },
     {
       "tipo": "spoiler",
-      "texto": "<span style=\"font-size: 14px;\">APROVADO:</span>  <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+      "texto": "APROVADO:",
       "conteudo": [
         {
           "tipo": "texto",
@@ -1446,7 +1446,7 @@
     },
     {
       "tipo": "spoiler",
-      "texto": "<span style=\"font-size: 14px;\">REPROVADO:</span>  <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+      "texto": "REPROVADO:",
       "conteudo": [
         {
           "tipo": "texto",
@@ -1533,7 +1533,7 @@
     },
     {
       "tipo": "spoiler",
-      "texto": "SLIDE: <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+      "texto": "SLIDE:",
       "conteudo": [
         {
           "tipo": "descricao",
@@ -1567,7 +1567,7 @@
     },
     {
       "tipo": "spoiler",
-      "texto": "MENSAGENS NO JOGO: <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+      "texto": "MENSAGENS NO JOGO:",
       "conteudo": [
         {
           "tipo": "titulo",
@@ -1977,7 +1977,7 @@
     },
     {
       "tipo": "spoiler",
-      "texto": "APROVADO: <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+      "texto": "APROVADO:",
       "conteudo": [
         {
           "tipo": "texto",
@@ -2039,7 +2039,7 @@
     },
     {
       "tipo": "spoiler",
-      "texto": "REPROVADO: <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+      "texto": "REPROVADO:",
       "conteudo": [
         {
           "tipo": "texto",
@@ -2132,7 +2132,7 @@
     },
     {
       "tipo": "spoiler",
-      "texto": "SLIDE: <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+      "texto": "SLIDE:",
       "conteudo": [
         {
           "tipo": "descricao",
@@ -2166,7 +2166,7 @@
     },
     {
       "tipo": "spoiler",
-      "texto": "<span style=\"font-size: 14px;\">Script:</span>  <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+      "texto": "Script:",
       "conteudo": [
         {
           "tipo": "titulo",
@@ -2476,7 +2476,7 @@
     },
     {
       "tipo": "spoiler",
-      "texto": "<span style=\"font-size: 14px;\">APROVADO:</span>  <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+      "texto": "APROVADO:",
       "conteudo": [
         {
           "tipo": "texto",
@@ -2510,7 +2510,7 @@
     },
     {
       "tipo": "spoiler",
-      "texto": "<span style=\"font-size: 14px;\">REPROVADO:</span>  <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+      "texto": "REPROVADO:",
       "conteudo": [
         {
           "tipo": "texto",
@@ -2916,7 +2916,7 @@
     },
     {
       "tipo": "spoiler",
-      "texto": "APROVADO: <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+      "texto": "APROVADO:",
       "conteudo": [
         {
           "tipo": "texto",
@@ -2954,7 +2954,7 @@
     },
     {
       "tipo": "spoiler",
-      "texto": "REPROVADO: <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+      "texto": "REPROVADO:",
       "conteudo": [
         {
           "tipo": "texto",
@@ -3180,7 +3180,7 @@
     },
     {
       "tipo": "spoiler",
-      "texto": "APROVADO: <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+      "texto": "APROVADO:",
       "conteudo": [
         {
           "tipo": "texto",
@@ -3214,7 +3214,7 @@
     },
     {
       "tipo": "spoiler",
-      "texto": "REPROVADO: <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+      "texto": "REPROVADO:",
       "conteudo": [
         {
           "tipo": "texto",
