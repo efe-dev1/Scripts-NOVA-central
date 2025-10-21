@@ -744,26 +744,6 @@
       "tipo": "texto",
       "texto": "Vamos retornar ao batalhão."
     },
-    {
-      "tipo": "postagem",
-      "links": [
-        {
-          "texto": "Formulário de postagem",
-          "url": "https://efe-relatorio-de-postagem.netlify.app/view/form/prof?aula=0",
-          "icone": "fas fa-pencil-alt"
-        },
-        {
-          "texto": "Verificar postagem",
-          "url": "https://docs.google.com/spreadsheets/d/1f9fPMnAosjKEvyZ5LJtuAz-kmdn1-VXRA9Nawr2tR3k/edit?gid=2092996256#gid=2092996256",
-          "icone": "fas fa-check-circle"
-        },
-        {
-          "texto": "RCC System",
-          "url": "https://system.policercc.com.br/companhia/efe",
-          "icone": "fas fa-laptop"
-        }
-      ]
-    }
   ],
   "API": [
     {
@@ -1028,26 +1008,6 @@
         }
       ]
     },
-    {
-      "tipo": "postagem",
-      "links": [
-        {
-          "texto": "Formulário de postagem",
-          "url": "https://efe-relatorio-de-postagem.netlify.app/view/form/prof?aula=1",
-          "icone": "fas fa-pencil-alt"
-        },
-        {
-          "texto": "Verificar postagem",
-          "url": "https://docs.google.com/spreadsheets/d/1f9fPMnAosjKEvyZ5LJtuAz-kmdn1-VXRA9Nawr2tR3k/edit?gid=2092996256#gid=2092996256",
-          "icone": "fas fa-check-circle"
-        },
-        {
-          "texto": "RCC System",
-          "url": "https://system.policercc.com.br/companhia/efe",
-          "icone": "fas fa-laptop"
-        }
-      ]
-    }
   ],
   "APA": [
     {
@@ -1474,26 +1434,6 @@
         }
       ]
     },
-    {
-      "tipo": "postagem",
-      "links": [
-        {
-          "texto": "Formulário de postagem",
-          "url": "https://efe-relatorio-de-postagem.netlify.app/view/form/prof?aula=2",
-          "icone": "fas fa-pencil-alt"
-        },
-        {
-          "texto": "Verificar postagem",
-          "url": "https://docs.google.com/spreadsheets/d/1f9fPMnAosjKEvyZ5LJtuAz-kmdn1-VXRA9Nawr2tR3k/edit?gid=2092996256#gid=2092996256",
-          "icone": "fas fa-check-circle"
-        },
-        {
-          "texto": "RCC System",
-          "url": "https://system.policercc.com.br/companhia/efe",
-          "icone": "fas fa-laptop"
-        }
-      ]
-    }
   ],
   "AFP": [
     {
@@ -2067,31 +2007,6 @@
         }
       ]
     },
-    {
-      "tipo": "postagem",
-      "links": [
-        {
-          "texto": "Envio de MP",
-          "url": "https://www.policiarcc.com/h154-efe-gerador-de-slides",
-          "icone": "fas fa-paper-plane"
-        },
-        {
-          "texto": "Forms de postagem",
-          "url": "https://efe-relatorio-de-postagem.netlify.app/view/form/prof?aula=3",
-          "icone": "fas fa-pencil-alt"
-        },
-        {
-          "texto": "Verificar post",
-          "url": "https://docs.google.com/spreadsheets/d/1f9fPMnAosjKEvyZ5LJtuAz-kmdn1-VXRA9Nawr2tR3k/edit?gid=2092996256#gid=2092996256",
-          "icone": "fas fa-check-circle"
-        },
-        {
-          "texto": "RCC System",
-          "url": "https://system.policercc.com.br/companhia/efe",
-          "icone": "fas fa-laptop"
-        }
-      ]
-    }
   ],
   "AFO": [
     {
@@ -2538,26 +2453,6 @@
         }
       ]
     },
-    {
-      "tipo": "postagem",
-      "links": [
-        {
-          "texto": "Formulário de postagem",
-          "url": "https://efe-relatorio-de-postagem.netlify.app/view/form/prof?aula=4",
-          "icone": "fas fa-pencil-alt"
-        },
-        {
-          "texto": "Verificar postagem",
-          "url": "https://docs.google.com/spreadsheets/d/1f9fPMnAosjKEvyZ5LJtuAz-kmdn1-VXRA9Nawr2tR3k/edit?gid=2092996256#gid=2092996256",
-          "icone": "fas fa-check-circle"
-        },
-        {
-          "texto": "RCC System",
-          "url": "https://system.policercc.com.br/companhia/efe",
-          "icone": "fas fa-laptop"
-        }
-      ]
-    }
   ],
   "CICE": [
     {
@@ -2606,21 +2501,6 @@
     {
       "tipo": "texto",
       "texto": "O título da MP é: [EFE] Slides - Curso de Introdução ao Corpo Executivo (CICE)"
-    },
-    {
-      "tipo": "mp",
-      "links": [
-        {
-          "url": "https://www.policiarcc.com/h154-efe-gerador-de-slides",
-          "icone": "fas fa-paper-plane",
-          "texto": "Envio de MP"
-        },
-        {
-          "url": "https://www.youtube.com/watch?v=e4ta_gW7Uy4",
-          "icone": "fas fa-question-circle",
-          "texto": "Ajuda para enviar MP"
-        }
-      ]
     },
     {
       "tipo": "descricao",
@@ -2766,21 +2646,6 @@
       "tipo": "descricao",
       "texto": "↳ O Curso de Introdução ao Corpo Executivo deve be postado somente nos formulários da companhia."
     },
-    {
-      "tipo": "postagem",
-      "links": [
-        {
-          "texto": "Formulário de postagem",
-          "url": "https://efe-relatorio-de-postagem.netlify.app/view/form/prof?aula=5",
-          "icone": "fas fa-pencil-alt"
-        },
-        {
-          "texto": "Verificar postagem",
-          "url": "https://docs.google.com/spreadsheets/d/1f9fPMnAosjKEvyZ5LJtuAz-kmdn1-VXRA9Nawr2tR3k/edit?gid=482045927#gid=482045927",
-          "icone": "fas fa-check-circle"
-        }
-      ]
-    }
   ],
   "AFCE": [
     {
@@ -2986,21 +2851,6 @@
       "tipo": "descricao",
       "texto": "<span style=\"color: #338da4;\">↳ A Avaliação de Formação do Corpo Executivo deve ser postada <span style=\"font-weight: bold;\">somente</span> nos <span style=\"font-weight: bold;\">formulários</span> da companhia."
     },
-    {
-      "tipo": "postagem",
-      "links": [
-        {
-          "texto": "Formulário de postagem",
-          "url": "https://efe-relatorio-de-postagem.netlify.app/view/form/prof?aula=6",
-          "icone": "fas fa-pencil-alt"
-        },
-        {
-          "texto": "Verificar postagem",
-          "url": "https://docs.google.com/spreadsheets/d/1f9fPMnAosjKEvyZ5LJtuAz-kmdn1-VXRA9Nawr2tR3k/edit?gid=2092996256#gid=2092996256",
-          "icone": "fas fa-check-circle"
-        }
-      ]
-    }
   ],
   "AvCE": [
     {
@@ -3230,25 +3080,5 @@
         }
       ]
     },
-    {
-      "tipo": "postagem",
-      "links": [
-        {
-          "texto": "Formulário de postagem",
-          "url": "https://efe-relatorio-de-postagem.netlify.app/view/form/prof?aula=7",
-          "icone": "fas fa-pencil-alt"
-        },
-        {
-          "texto": "Verificar postagem",
-          "url": "https://docs.google.com/spreadsheets/d/1f9fPMnAosjKEvyZ5LJtuAz-kmdn1-VXRA9Nawr2tR3k/edit?gid=2092996256#gid=2092996256",
-          "icone": "fas fa-check-circle"
-        },
-        {
-          "texto": "RCC System",
-          "url": "https://system.policercc.com.br/companhia/efe",
-          "icone": "fas fa-laptop"
-        }
-      ]
-    }
   ]
 }
