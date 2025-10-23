@@ -1276,10 +1276,7 @@
   "AFP": [
     {
       "tipo": "instrucoes",
-      "texto": "<li>Nenhuma parte do script pode ser negligenciada. Aplique cada uma delas;</li><li>Procure ter uma abordagem calma e paciente com o aluno, usando um linguajar que possa o ensinar da melhor maneira possível;</li><li>Em caso de saída do aluno, verifique se a postagem é permitida conforme o Regimento Interno;</li><li>É obrigatório e seu dever verificar se o policial já tem a aula ou é ativo no RCC System.</li><li>Caso o policial reprove, você poderá reaplicar a aula apenas mais uma vez.</li><li>Em caso de aulas para o mesmo executivo, pode pular a introdução e ir direto aos spoilers de \"slide\" ou \"jogo\".</li>",
-      "link": "https://www.policiarcc.com/memberlist",
-      "linkText": "Clique aqui para conferir se o policial tem conta ativa no fórum",
-      "linkIcon": "fas fa-laptop"
+      "texto": "<li>Nenhuma parte do script pode ser negligenciada. Aplique cada uma delas;</li><li>Procure ter uma abordagem calma e paciente com o aluno, usando um linguajar que possa o ensinar da melhor maneira possível;</li><li>Em caso de saída do aluno, verifique se a postagem é permitida conforme o Regimento Interno;</li><li>É obrigatório e seu dever verificar se o policial já tem a aula ou é ativo no RCC System.</li><li>Caso o policial reprove, você poderá reaplicar a aula apenas mais uma vez.</li><li>Em caso de aulas para o mesmo executivo, pode pular a introdução e ir direto aos spoilers de \"slide\" ou \"jogo\".</li>"
     },
     {
       "tipo": "descricao",
@@ -1959,10 +1956,7 @@
   "AFCE": [
     {
       "tipo": "instrucoes",
-      "texto": "<li>Nenhuma parte do script pode ser negligenciada. Aplique cada uma delas;</li><li>Procure ter uma abordagem calma e paciente com o aluno, usando um linguajar que possa o ensinar da melhor maneira possível;</li><li>Em caso de saída do aluno, verifique se a postagem é permitida conforme o Regimento Interno;</li><li>É obrigatório e seu dever verificar se o policial já tem a aula ou é ativo no RCC System.</li>",
-      "link": "https://efe-check.netlify.app/",
-      "linkText": "Clique aqui para conferir se o policial está apto a receber o curso",
-      "linkIcon": "fas fa-file-excel"
+      "texto": "<li>Nenhuma parte do script pode ser negligenciada. Aplique cada uma delas;</li><li>Procure ter uma abordagem calma e paciente com o aluno, usando um linguajar que possa o ensinar da melhor maneira possível;</li><li>Em caso de saída do aluno, verifique se a postagem é permitida conforme o Regimento Interno;</li><li>É obrigatório e seu dever verificar se o policial já tem a aula ou é ativo no RCC System.</li>"
     },
     {
       "tipo": "descricao",
@@ -2164,10 +2158,7 @@
   "AvCE": [
     {
       "tipo": "instrucoes",
-      "texto": "<li>Nenhuma parte do script pode ser negligenciada. Aplique cada uma delas;</li><li>Procure ter uma abordagem calma e paciente com o aluno, usando um linguajar que possa o ensinar da melhor maneira possível;</li><li>Em caso de saída do aluno, verifique se a postagem é permitida conforme o Regimento Interno;</li><li>É obrigatório e seu dever verificar se o policial já tem a aula ou é ativo no RCC System.</li>",
-      "link": "https://efe-check.netlify.app/",
-      "linkText": "Clique aqui para conferir se o policial possui o Certificado de Formação de Executivos (CFE)",
-      "linkIcon": "fas fa-file-excel"
+      "texto": "<li>Nenhuma parte do script pode ser negligenciada. Aplique cada uma delas;</li><li>Procure ter uma abordagem calma e paciente com o aluno, usando um linguajar que possa o ensinar da melhor maneira possível;</li><li>Em caso de saída do aluno, verifique se a postagem é permitida conforme o Regimento Interno;</li><li>É obrigatório e seu dever verificar se o policial já tem a aula ou é ativo no RCC System.</li>"
     },
     {
       "tipo": "descricao",
@@ -3275,3 +3266,4 @@
     },
   ]
 }
+
