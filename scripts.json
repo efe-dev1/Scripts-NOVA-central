@@ -3333,9 +3333,8 @@
           "texto": "Atente-se ao PIN de acesso que estará na MP."
         },
         {
-          "tipo": "botao",
-          "texto": "Clique AQUI para enviar a MP.",
-          "url": "https://www.policiarcc.com/h190-efe-gerador-de-graduacao"
+          "tipo": "descricao",
+          "texto": "↳ <a href=\"https://www.policiarcc.com/h190-efe-gerador-de-graduacao\" class=\"bot-link\" target=\"_blank\">CLIQUE AQUI</a> para ser redirecionado ao envio automático de MPs."
         },
         {
           "tipo": "texto",
@@ -3564,9 +3563,8 @@
       "texto": "Atente-se ao PIN de acesso que estará na MP."
     },
     {
-      "tipo": "botao",
-      "texto": "Clique AQUI para enviar a MP.",
-      "url": "https://www.policiarcc.com/h190-efe-gerador-de-graduacao"
+      "tipo": "descricao",
+      "texto": "↳ <a href=\"https://www.policiarcc.com/h190-efe-gerador-de-graduacao\" class=\"bot-link\" target=\"_blank\">CLIQUE AQUI</a> para ser redirecionado ao envio automático de MPs."
     },
     {
       "tipo": "texto",
@@ -3722,10 +3720,9 @@
       "tipo": "texto",
       "texto": "Atente-se ao PIN de acesso que estará na MP."
     },
-    {
-      "tipo": "botao",
-      "texto": "Clique AQUI para enviar a MP.",
-      "url": "https://www.policiarcc.com/h190-efe-gerador-de-graduacao"
+        {
+      "tipo": "descricao",
+      "texto": "↳ <a href=\"https://www.policiarcc.com/h190-efe-gerador-de-graduacao\" class=\"bot-link\" target=\"_blank\">CLIQUE AQUI</a> para ser redirecionado ao envio automático de MPs."
     },
     {
       "tipo": "texto",
@@ -3857,4 +3854,3 @@
     }
   ]
 }
-
