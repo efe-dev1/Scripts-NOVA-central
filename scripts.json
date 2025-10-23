@@ -1043,10 +1043,6 @@
       "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
     },
     {
-      "tipo": "texto",
-      "texto": "Deseja receber o conteúdo através de slides ou mensagens no jogo?"
-    },
-    {
       "tipo": "spoiler",
       "texto": "SLIDE:",
       "conteudo": [
@@ -1077,164 +1073,6 @@
         {
           "tipo": "texto",
           "texto": "Dentro do portal, basta escolher a aula: APA!"
-        }
-      ]
-    },
-    {
-      "tipo": "spoiler",
-      "texto": "MENSAGENS NO JOGO:",
-      "conteudo": [
-        {
-          "tipo": "titulo",
-          "texto": "FUNÇÕES"
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "texto",
-          "texto": "1. Oficial da Guarda"
-        },
-        {
-          "tipo": "texto",
-          "texto": "O Oficial da Guarda (OG) utiliza o balão amarelo, comanda o batalhão e executa o comando sentido"
-        },
-        {
-          "tipo": "texto",
-          "texto": "quando a maior patente/cargo entra no batalhão. O sentido dado é padronizado, exceto para"
-        },
-        {
-          "tipo": "texto",
-          "texto": "os Comandantes Supremos, que devem ser saudados com continência antes de receber a palavra."
-        },
-        {
-          "tipo": "texto",
-          "texto": "Aspirante a oficial/Analista+ com Curso de Formação de Oficiais concluído podem assumir esta função."
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "texto",
-          "texto": "2. Cabo da Guarda e Auxiliar"
-        },
-        {
-          "tipo": "texto",
-          "texto": "O Cabo da Guarda (CG) utiliza balão vermelho, comanda e organiza a troca de policiais"
-        },
-        {
-          "tipo": "texto",
-          "texto": "na recepção quando necessário. Caso você seja subalterno ao Cabo da Guarda e queira"
-        },
-        {
-          "tipo": "texto",
-          "texto": "levar policiais da recepção, deve pedir permissão para retirar o(a) policial da função."
-        },
-        {
-          "tipo": "texto",
-          "texto": "Após o sentido em base do Oficial da Guarda, é responsável por dar sentido à recepção."
-        },
-        {
-          "tipo": "texto",
-          "texto": "Em seu palanque, você terá algumas ações para lhe auxiliar: o comando fecharportas"
-        },
-        {
-          "tipo": "texto",
-          "texto": "fecha todas as portas dos recepcionistas (caso alguém abra, sem intenção,"
-        },
-        {
-          "tipo": "texto",
-          "texto": "uma das portas) e o comando pkx (x é o número da cabine, exemplo: pk1), que irá"
-        },
-        {
-          "tipo": "texto",
-          "texto": "serpar o recruta."
-        },
-        {
-          "tipo": "texto",
-          "texto": "O Auxiliar do Cabo da Guarda (ACG) é responsável por auxiliar o Cabo da Guarda"
-        },
-        {
-          "tipo": "texto",
-          "texto": "no comando da recepção, retirando dúvidas e permitindo ausências."
-        },
-        {
-          "tipo": "texto",
-          "texto": "O auxiliar consegue alterar o visual do recruta para o adequado utilizando o comando"
-        },
-        {
-          "tipo": "texto",
-          "texto": "visux (x é o número da cabine, exemplo: visu01 ou visu02)."
-        },
-        {
-          "tipo": "texto",
-          "texto": "O comando rccx  (x é o número da cabine, exemplo: rcc1) poderá ser usado por todos"
-        },
-        {
-          "tipo": "texto",
-          "texto": "na recepção. Este comando puxa um brasão para trás do recruta da cabine,"
-        },
-        {
-          "tipo": "texto",
-          "texto": "facilitando que este entre no grupo da polícia RCC."
-        },
-        {
-          "tipo": "texto",
-          "texto": "O ocupante do ACG também utiliza balão vermelho e deve ser"
-        },
-        {
-          "tipo": "texto",
-          "texto": "inferior ou par do Cabo da Guarda."
-        },
-        {
-          "tipo": "texto",
-          "texto": "Sargentos e secretários com CFS/APA poderão assumir CG e ACG."
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "texto",
-          "texto": "3. Auxiliar Operacional"
-        },
-        {
-          "tipo": "descricao",
-          "texto": "↳ A partir daqui, é PERMITIDA a postagem de aula, contanto que esteja de acordo com o Regimento Interno."
-        },
-        {
-          "tipo": "texto",
-          "texto": "O Auxiliar Operacional (AO) comanda toda a Sala de Controle, mantendo os policiais"
-        },
-        {
-          "tipo": "texto",
-          "texto": "ativos e os trocando de função, se necessário."
-        },
-        {
-          "tipo": "texto",
-          "texto": "Obrigatoriamente, o policial deve ser par ou superior de todos os operadores presentes."
-        },
-        {
-          "tipo": "texto",
-          "texto": "Sargentos e secretários com CFS/APA poderão assumir AO."
-        },
-        {
-          "tipo": "texto",
-          "texto": "Enquanto assumir Auxiliar Operacional, você poderá ser responsabilizado pelos erros dos"
-        },
-        {
-          "tipo": "texto",
-          "texto": "seus operadores, portanto, interfira sempre e agilmente nas ações irregulares caso as veja."
-        },
-        {
-          "tipo": "texto",
-          "texto": "Além disso, como medida de segurança, deve manter as listagens de Soldados e"
-        },
-        {
-          "tipo": "texto",
-          "texto": "executivos no RCCSystem abertas."
         }
       ]
     },
@@ -1468,10 +1306,6 @@
       "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
     },
     {
-      "tipo": "texto",
-      "texto": "Prefere receber o conteúdo em slides (mais prático) ou por mensagens no jogo (método tradicional)?"
-    },
-    {
       "tipo": "spoiler",
       "texto": "SLIDE:",
       "conteudo": [
@@ -1502,332 +1336,6 @@
         {
           "tipo": "texto",
           "texto": "Dentro do portal, basta escolher a aula: AFP!"
-        }
-      ]
-    },
-    {
-      "tipo": "spoiler",
-      "texto": "MENSAGENS NO JOGO:",
-      "conteudo": [
-        {
-          "tipo": "titulo",
-          "texto": "PROMOÇÕES"
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "texto",
-          "texto": "As promoções são mais do que subir um policial de patente; todas elas"
-        },
-        {
-          "tipo": "texto",
-          "texto": "envolvem confiança entre superior e subordinado. É imprescindível que"
-        },
-        {
-          "tipo": "texto",
-          "texto": "todas as promoções que você faça estejam de acordo com os padrões da polícia, isto é,"
-        },
-        {
-          "tipo": "texto",
-          "texto": "que todos os requisitos para a promoção sejam verificados antes, além de possuir"
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "titulo",
-          "texto": "REGRAS BÁSICAS"
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "texto",
-          "texto": "Antes de realizar qualquer tipo de promoção, você deve estar ciente de algumas"
-        },
-        {
-          "tipo": "texto",
-          "texto": "necessidades básicas para dar prosseguimento à ação:"
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "texto",
-          "texto": "- Certificar-se de que o alvo tem dias mínimos e cursos completos;"
-        },
-        {
-          "tipo": "texto",
-          "texto": "- Ter dois cargos a frente do cargo que deseja promover. Por exemplo"
-        },
-        {
-          "tipo": "texto",
-          "texto": "caso queira promover um secretário-chefe a assistente, você deve ter pelo menos"
-        },
-        {
-          "tipo": "texto",
-          "texto": "o posto de assistente-chefe;"
-        },
-        {
-          "tipo": "texto",
-          "texto": "- Assistentes precisam de permissão de um oficial do Corpo Militar ou Corpo Executivo"
-        },
-        {
-          "tipo": "texto",
-          "texto": "(portador de Especialização Intermediária) para realizar promoções;"
-        },
-        {
-          "tipo": "texto",
-          "texto": "- Promoções que precisam de permissões precisam de postagem em permissões"
-        },
-        {
-          "tipo": "texto",
-          "texto": "no RCCSystem (não realize promoções sem a postagem prévia no system)."
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "titulo",
-          "texto": "ESPECIALIZAÇÕES"
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "texto",
-          "texto": "As especializações da polícia são divididas em três, sendo: básica, intermediária e"
-        },
-        {
-          "tipo": "texto",
-          "texto": "avançada."
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "texto",
-          "texto": "1. Especialização Básica"
-        },
-        {
-          "tipo": "texto",
-          "texto": "Para que você possa realizar qualquer ação hierárquica, precisará ter"
-        },
-        {
-          "tipo": "texto",
-          "texto": "Especialização Básica."
-        },
-        {
-          "tipo": "texto",
-          "texto": "Para ter Especialização Básica, você deve:"
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "texto",
-          "texto": "- Ter concluído a Aula de Formação de Praças (AFP) e Curso de Aperfeiçoamento da"
-        },
-        {
-          "tipo": "texto",
-          "texto": "Comunicação (CAC);"
-        },
-        {
-          "tipo": "texto",
-          "texto": "- Ter três dias no Corpo Executivo;"
-        },
-        {
-          "tipo": "texto",
-          "texto": "- Possuir uma TAG ativa no RCCSystem."
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "texto",
-          "texto": "A postagem da especialização pode ser feita por você mesmo no RCCSystem"
-        },
-        {
-          "tipo": "texto",
-          "texto": "em Corpo Executivo; Postagem: Especialização."
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "texto",
-          "texto": "2. Especialização Intermediária"
-        },
-        {
-          "tipo": "texto",
-          "texto": "A Especialização Intermediária é visada aos oficiais, e permite com que"
-        },
-        {
-          "tipo": "texto",
-          "texto": "as promoções até oficial general sejam feitas sem permissão."
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "texto",
-          "texto": "Para ter Especialização Intermediária, você deve:"
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "texto",
-          "texto": "- Ter o Curso de Formação de Oficiais (CFO);"
-        },
-        {
-          "tipo": "texto",
-          "texto": "- Ser Oficial do Corpo Executivo;"
-        },
-        {
-          "tipo": "texto",
-          "texto": "- Ter 14 dias no Corpo Executivo;"
-        },
-        {
-          "tipo": "texto",
-          "texto": "- Ser avaliado pela Diretoria."
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "texto",
-          "texto": "3. Especialização Avançada"
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "texto",
-          "texto": "A Especialização Avançada é formada por Diretores e não proibe"
-        },
-        {
-          "tipo": "texto",
-          "texto": "nenhum tipo de promoção."
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "texto",
-          "texto": "Para ter Especialização Avançada, você deve:"
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "texto",
-          "texto": "- Ter a Aula de Formação de Oficiais (AFO);"
-        },
-        {
-          "tipo": "texto",
-          "texto": "- Ter avaliação da Diretoria do Corpo Executivo;"
-        },
-        {
-          "tipo": "texto",
-          "texto": "- Ter o certificado de Avaliação de Qualificação do Oficialato Intermediário."
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "titulo",
-          "texto": "DIÁLOGO PÓS-PROMOÇÃO"
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "texto",
-          "texto": "O diálogo pós-promoção é obrigatório após a aplicação de qualquer"
-        },
-        {
-          "tipo": "texto",
-          "texto": "promoção que você realizar. Deve ser um diálogo explicitando todas"
-        },
-        {
-          "tipo": "texto",
-          "texto": "as novas responsabilidades do policial promovido,"
-        },
-        {
-          "tipo": "texto",
-          "texto": "incluindo cursos que deverá fazer."
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "texto",
-          "texto": "Alguma dúvida?"
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "titulo",
-          "texto": "POSTAGEM"
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "texto",
-          "texto": "Para postar uma promoção, você deve acessar o RCCSystem, ir em Requerimentos"
-        },
-        {
-          "tipo": "texto",
-          "texto": "e selecionar o formulário de Corpo de Praças (caso for promover um"
-        },
-        {
-          "tipo": "texto",
-          "texto": "praça) ou Corpo de Oficiais (caso for promover um oficial ou aspirante)"
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "texto",
-          "texto": "A postagem de promoção deve conter motivos plausíveis para que não seja"
-        },
-        {
-          "tipo": "texto",
-          "texto": "negada pelo Centro de Recursos Humanos."
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "texto",
-          "texto": "Alguma dúvida?"
         }
       ]
     },
@@ -2042,10 +1550,6 @@
       "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
     },
     {
-      "tipo": "texto",
-      "texto": "Deseja receber o conteúdo através de slides ou mensagens no jogo?"
-    },
-    {
       "tipo": "spoiler",
       "texto": "SLIDE:",
       "conteudo": [
@@ -2076,208 +1580,6 @@
         {
           "tipo": "texto",
           "texto": "Dentro do portal, basta escolher a aula: AFO!"
-        }
-      ]
-    },
-    {
-      "tipo": "spoiler",
-      "texto": "Script:",
-      "conteudo": [
-        {
-          "tipo": "titulo",
-          "texto": "CORPO DE OFICIAIS GENERAIS"
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "texto",
-          "texto": "O Corpo de Oficiais Generais é formado por Superintendentes/Generais+."
-        },
-        {
-          "tipo": "texto",
-          "texto": "As obrigações de um membro do COG são adversas a de um membro comum;"
-        },
-        {
-          "tipo": "texto",
-          "texto": "você deverá ser exímio em situações que exigem pulso firme e rigidez, além de resolução de casos."
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "texto",
-          "texto": "Alguma dúvida?"
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "titulo",
-          "texto": "TRANSFERÊNCIAS DE CONTA"
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "texto",
-          "texto": "Como membro do Corpo de Oficiais Generais, ao possuir Especialização Intermediária,"
-        },
-        {
-          "tipo": "texto",
-          "texto": "você estará apto para realizar transferências de contas."
-        },
-        {
-          "tipo": "texto",
-          "texto": "As normativas para transferência de conta são disponibilizadas no Código de Conduta Militar,"
-        },
-        {
-          "tipo": "texto",
-          "texto": "disposições complementares."
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "texto",
-          "texto": "Policiais que forem banidos com mute por mais de 18 horas ou perderam o acesso à"
-        },
-        {
-          "tipo": "texto",
-          "texto": "conta por algum motivo devem transferir sua conta com sufixos como .ban e -mudo."
-        },
-        {
-          "tipo": "texto",
-          "texto": "Este é o modelo padrão que deve ser seguido e, caso o policial"
-        },
-        {
-          "tipo": "texto",
-          "texto": "opte por não utilizá-lo, deve se enquadrar em um dos seguintes tópicos:"
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "texto",
-          "texto": "a) Conta inutilizável por banimento e/ou mute prolongado;"
-        },
-        {
-          "tipo": "texto",
-          "texto": "b) Conta inutilizável pelo bloqueio das perguntas de segurança;"
-        },
-        {
-          "tipo": "texto",
-          "texto": "c) Conta inutilizável pela perda do acesso ou por falta de segurança;"
-        },
-        {
-          "tipo": "texto",
-          "texto": "d) Nick infringe qualquer um dos casos dispostos na política de nicknames;"
-        },
-        {
-          "tipo": "texto",
-          "texto": "e) Utilização da ferramenta de alteração de nick disponível na versão moderna do Habbo Hotel ou"
-        },
-        {
-          "tipo": "texto",
-          "texto": "transferência de conta por motivos pessoais."
-        },
-        {
-          "tipo": "texto",
-          "texto": "Atente-se à alínea e): policiais só poderão utilizar-se delas"
-        },
-        {
-          "tipo": "texto",
-          "texto": "com permissão do Alto Comando Supremo."
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "texto",
-          "texto": "Policiais que forem hackeados devem, antes de terem sua conta transferida,"
-        },
-        {
-          "tipo": "texto",
-          "texto": "ser rebaixados pelo comprometimento da sua conta, uma vez que"
-        },
-        {
-          "tipo": "texto",
-          "texto": "colocam a instituição em risco. Para comprovar a veracidade do"
-        },
-        {
-          "tipo": "texto",
-          "texto": "policial, solicite que, antes da transferência, ele lhe envie uma Mensagem Privada"
-        },
-        {
-          "tipo": "texto",
-          "texto": "no fórum."
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "texto",
-          "texto": "Alguma dúvida?"
-        },
-        {
-          "tipo": "descricao",
-          "texto": "↳ A partir daqui, é PERMITIDA a postagem de aula, contanto que esteja de acordo com o Regimento Interno."
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "titulo",
-          "texto": "CONCESSÃO DE PERMISSÕES"
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "texto",
-          "texto": "Caso possua Especialização Intermediária, poderá conceder permissões para algumas"
-        },
-        {
-          "tipo": "texto",
-          "texto": "ações hierárquicas e missões; note que você estará também isento da necessidade de permissão"
-        },
-        {
-          "tipo": "texto",
-          "texto": "para aplicar missões."
-        },
-        {
-          "tipo": "texto",
-          "texto": "Antes de conceder quaisquer permissões, é necessário averiguar se o militar que vai ser"
-        },
-        {
-          "tipo": "texto",
-          "texto": "será alvo da ação está apto. As missões e promoções têm normativas"
-        },
-        {
-          "tipo": "texto",
-          "texto": "diferentes, ambas encontradas nas disposições gerais do Código"
-        },
-        {
-          "tipo": "texto",
-          "texto": "de Conduta Militar."
-        },
-        {
-          "tipo": "descricao",
-          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-        },
-        {
-          "tipo": "texto",
-          "texto": "Alguma dúvida?"
         }
       ]
     },
@@ -2457,10 +1759,7 @@
   "CICE": [
     {
       "tipo": "instrucoes",
-      "texto": "<li>O CICE deve ser aplicado no Centro de Instruções, com exceção de aulas acompanhadas;</li><li>Nenhuma parte do script pode ser negligenciada. Aplique cada uma delas;</li><li>Procure ter uma abordagem calma e paciente com o aluno, usando um linguajar que possa o ensinar da melhor maneira possível;</li><li>Em caso de saída do aluno, verifique se a postagem é permitida conforme o Regimento Interno;</li><li>É obrigatório e seu dever verificar se o policial já tem a aula ou é ativo no RCC System.</li>",
-      "link": "https://efe-check.netlify.app/",
-      "linkText": "Clique aqui para conferir se o policial está apto a receber o curso",
-      "linkIcon": "fas fa-file-excel"
+      "texto": "<li>O CICE deve ser aplicado no Centro de Instruções, com exceção de aulas acompanhadas;</li><li>Nenhuma parte do script pode ser negligenciada. Aplique cada uma delas;</li><li>Procure ter uma abordagem calma e paciente com o aluno, usando um linguajar que possa o ensinar da melhor maneira possível;</li><li>Em caso de saída do aluno, verifique se a postagem é permitida conforme o Regimento Interno;</li><li>É obrigatório e seu dever verificar se o policial já tem a aula ou é ativo no RCC System.</li>"
     },
     {
       "tipo": "descricao",
@@ -2491,28 +1790,38 @@
       "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
     },
     {
-      "tipo": "texto",
-      "texto": "Você receberá uma Mensagem Privada com um conteúdo para ser lido acerca da"
-    },
-    {
-      "tipo": "texto",
-      "texto": "estruturação do Corpo Executivo. Finalizaremos com uma avaliação teórica."
-    },
-    {
-      "tipo": "texto",
-      "texto": "O título da MP é: [EFE] Slides - Curso de Introdução ao Corpo Executivo (CICE)"
-    },
-    {
-      "tipo": "descricao",
-      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
-    },
-    {
-      "tipo": "texto",
-      "texto": "Avise-me quando terminar de ler. Você terá 10 minutos para ler todo o conteúdo da"
-    },
-    {
-      "tipo": "texto",
-      "texto": "Mensagem Privada. Evite dormir enviando balões de fala a cada minuto. Pode começar."
+      "tipo": "spoiler",
+      "texto": "SLIDE:",
+      "conteudo": [
+        {
+          "tipo": "descricao",
+          "texto": "<span style='color: red;'>Em hipótese alguma fale a palavra LINK ou tente enviar o link de forma de direta.</span>"
+        },
+        {
+          "tipo": "descricao",
+          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+        },
+        {
+          "tipo": "texto",
+          "texto": "Abra seu navegador e pesquise por Police RCC."
+        },
+        {
+          "tipo": "texto",
+          "texto": "Clique no primeiro item que aparecer nos resultados."
+        },
+        {
+          "tipo": "texto",
+          "texto": "Ao acessar a aba, procure e clique em Acessar Cursos."
+        },
+        {
+          "tipo": "texto",
+          "texto": "Depois, selecione a opção EFE e entre no EFE PORTAL."
+        },
+        {
+          "tipo": "texto",
+          "texto": "Dentro do portal, basta escolher a aula: CICE!"
+        }
+      ]
     },
     {
       "tipo": "descricao",
@@ -3080,5 +2389,515 @@
         }
       ]
     }
+  ],
+  "CTP": [
+    {
+      "tipo": "titulo",
+      "texto": "INTRODUÇÃO"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Seja bem-vindo à sua capacitação teórica. Meu papel como capacitador é garantir que você tenha uma compreensão completa do funcionamento da Escola de Formação de Executivos. Além disso, essa capacitação é essencial para que você possa participar de algum subgrupo da companhia."
+    },
+    {
+      "tipo": "texto",
+      "texto": "Além disso, evite inatividade enquanto lê os slides."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "↳ Tire um printscreen do início da aplicação agora para que seja contabilizado na meta."
+    },
+    {
+      "tipo": "spoiler",
+      "texto": "SLIDE: <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+      "conteudo": [
+        {
+          "tipo": "descricao",
+          "texto": "<span style='color: red;'>Em hipótese alguma fale a palavra LINK ou tente enviar o link de forma de direta.</span>"
+        },
+        {
+          "tipo": "descricao",
+          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+        },
+        {
+          "tipo": "texto",
+          "texto": "Abra seu navegador e pesquise por Police RCC."
+        },
+        {
+          "tipo": "texto",
+          "texto": "Clique no primeiro item que aparecer nos resultados."
+        },
+        {
+          "tipo": "texto",
+          "texto": "Ao acessar a aba, procure e clique em Acessar Cursos."
+        },
+        {
+          "tipo": "texto",
+          "texto": "Depois, selecione a opção EFE e entre no EFE PORTAL."
+        },
+        {
+          "tipo": "texto",
+          "texto": "Dentro do portal, basta escolher a cap. teórica de professor!"
+        }
+      ]
+    },
+    {
+      "tipo": "descricao",
+      "texto": "↳ Aguarde a notificação que terminou de ler."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Alguma dúvida sobre o conteúdo?"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "titulo",
+      "texto": "CONCLUSÃO"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Parabéns! Você foi aprovado na capacitação teórica e agora está apto a ingressar nos subgrupos da companhia. Além disso, em breve, receberá o selo de conclusão na listagem."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "↳ Tire um printscreen do final da aplicação agora para que seja contabilizado na meta."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Se não houver dúvidas, você está dispensado."
+    },
+  ],
+  "CPP": [
+    {
+      "tipo": "titulo",
+      "texto": "INTRODUÇÃO"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Saudações, professor. Sou o capacitador responsável por sua capacitação prática, que consiste na simulação de uma aplicação convencional do curso “APA”. Durante essa simulação, assumirei o papel de secretário, enquanto você ministrará o curso como em uma aula real."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Ao término, será necessário registrar a aplicação no formulário e no simulador do RCCSystem, que lhe fornecerei ao final da aula. Esse registro garantirá a contabilização de 50% da sua meta, além da emissão do certificado de conclusão da capacitação prática."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "↳ Não se esqueça de tirar uma printscreen agora para comprovar a capacitação."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Alguma dúvida?"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "↳ Vista a farda de secretário-chefe e ocupe a SE da sala de aula."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "↳ Ao vestir a farda, atue como secretário durante a aula."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Ótimo! Agora, você pode iniciar a aplicação da aula."
+    },
+    {
+      "tipo": "instrucoes",
+      "texto": "<li>Escolha o modo “SLIDES”.</li><li>Durante o teste teórico, erre obrigatoriamente uma questão para avaliar a correção do professor. Se ele não corrigir, explique isso ao final da aula, nos feedbacks.</li><li>Qualquer pulo de script deve ser notificado imediatamente, reforçando a proibição.</li>"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "titulo",
+      "texto": "POSTAGEM NO FORMULÁRIO"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Agora, você deverá postar no formulário de meta. Para isso, siga os passos abaixo:"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Clique em `Formulário de Postagem`, localizado ao final do script."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Preencha todas as informações conforme o padrão habitual."
+    },
+    {
+      "tipo": "texto",
+      "texto": "ATENÇÃO: O campo `Aula simulada por capacitador` deve ser obrigatoriamente preenchido."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "↳ Confira se todos os campos obrigatórios foram preenchidos corretamente, como a data de início e o campo `de simulação`, entre outros. Caso esteja tudo certo, prossiga. Se houver erros, oriente sobre como corrigir, destacando os pontos específicos a serem ajustados."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "titulo",
+      "texto": "FEEDBACK"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "↳ Nesta etapa, forneça um feedback detalhado sobre a aplicação da aula, destacando aspectos positivos e sugerindo melhorias. Comente sobre a clareza das explicações, a didática utilizada, a divisão de cores nos balões e a abordagem em caso de dúvidas dos alunos. Se a aula foi exemplar, reconheça o esforço do professor e elogie seu trabalho."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "titulo",
+      "texto": "CONCLUSÃO"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Parabéns, você foi aprovado na capacitação prática, com isso, você recebeu metade da sua meta desta semana e, caso ainda não tenha concluído a capacitação teórica, poderá ser cogitado para futuras promoções."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "É importantíssimo ter o máximo de atenção nas aulas para não ser notificado pelo nosso setor de fiscalização."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "↳ Caso a capacitação teórica ainda não tenha sido concluída, você poderá oferecê-la, dispensando a última linha. Caso contrário, prossiga conforme o script."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Desejo um bom progresso na companhia! Está dispensado."
+    },
+  ],
+  "CPM": [
+    {
+      "tipo": "titulo",
+      "texto": "INTRODUÇÃO"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Saudações, mentor. Sou o capacitador responsável por sua capacitação prática, que consiste na simulação de acompanhamento do curso `CICE`. Durante essa simulação, assumirei o papel de cabo recém integrado na companhia, enquanto você acompanhará minha aula e instruirá caso for necessário."
+    },
+    {
+      "tipo": "texto",
+      "texto": "Ao término, registrarei na planilha de professores e você deverá conferir se foi tudo corretamente, além de seguir o script de acompanhamento padrão."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "↳ Não se esqueça de tirar uma printscreen agora para comprovar a capacitação."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Alguma dúvida?"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "↳ Vista a farda de cabo e ocupe a cadeira de ministrante da sala de aula."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "↳ Ao vestir a farda, atue como um cabo durante toda a aula."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Ótimo! Agora, você pode iniciar a aplicação de acompanhamento."
+    },
+    {
+      "tipo": "instrucoes",
+      "texto": "<li>Durante a aplicação, utilize exclusivamente o balão de fala branco.</li><li>Em determinado momento da aula, pule obrigatoriamente cinco linhas do script para garantir que o mentor oriente corretamente sobre essa prática.</li><li>Ao registrar a aula no formulário de professores do CICE, selecione a opção \"AULA FICTÍCIA\" e insira seu nickname. Como aluno, utilize \"EFE-123\".</li><li>Registre o horário de início o mesmo do de término da aula, para assegurar que o mentor identificará o erro.</li>"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "spoiler",
+      "texto": "CICE: <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+      "conteudo": [
+        {
+          "tipo": "titulo",
+          "texto": "INTRODUÇÃO"
+        },
+        {
+          "tipo": "descricao",
+          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+        },
+        {
+          "tipo": "texto",
+          "texto": "Saudações, policial! Sou o(a) professor(a) responsável em lhe aplicar o Curso de Introdução ao Corpo Executivo."
+        },
+        {
+          "tipo": "texto",
+          "texto": "Caso eu saia da sala, aguarde por 5 minutos. Se eu não voltar, retorne ao batalhão."
+        },
+        {
+          "tipo": "descricao",
+          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+        },
+        {
+          "tipo": "texto",
+          "texto": "Você receberá uma Mensagem Privada com um conteúdo para ser lido acerca da estruturação do Corpo Executivo. Finalizaremos com uma avaliação teórica."
+        },
+        {
+          "tipo": "texto",
+          "texto": "Avise-me quando terminar de ler. Você terá 10 minutos para todo o conteúdo da O título da MP é: [EFE] Slides - Curso de Introdução ao Corpo Executivo (CICE) Mensagem Privada. Evite dormir enviando balões de fala a cada minuto. Pode começar."
+        },
+        {
+          "tipo": "descricao",
+          "texto": "↳ <a href=\"https://www.policiarcc.com/h154-efe-gerador-de-mp-cice\" class=\"bot-link\" target=\"_blank\">CLIQUE AQUI</a> para ser redirecionado ao envio automático de MPs."
+        },
+        {
+          "tipo": "descricao",
+          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+        },
+        {
+          "tipo": "texto",
+          "texto": "Alguma dúvida?"
+        },
+        {
+          "tipo": "descricao",
+          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+        },
+        {
+          "tipo": "titulo",
+          "texto": "TESTE TEÓRICO"
+        },
+        {
+          "tipo": "descricao",
+          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+        },
+        {
+          "tipo": "texto",
+          "texto": "Você passará por um teste teórico acerca dos assuntos abordados durante a aula."
+        },
+        {
+          "tipo": "texto",
+          "texto": "Fique tranquilo, não há chances de reprovar nele! Caso erre alguma questão, informarei a resposta. Vamos começar!"
+        },
+        {
+          "tipo": "descricao",
+          "texto": "↳ Caso haja mais de um policial, solicite que sussurre."
+        },
+        {
+          "tipo": "descricao",
+          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+        },
+        {
+          "tipo": "texto",
+          "texto": "1. Quais são os três (03) grupos do Corpo Executivo?"
+        },
+        {
+          "tipo": "descricao",
+          "texto": "Resposta: Escola de Formação de Executivos, Esquadrão do Corpo Executivo e Diretoria do Corpo Executivo."
+        },
+        {
+          "tipo": "descricao",
+          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+        },
+        {
+          "tipo": "texto",
+          "texto": "2. Por qual meio deve-se solicitar a Especialização Básica? Explique."
+        },
+        {
+          "tipo": "descricao",
+          "texto": "Resposta: A Especialização Básica deverá ser pelo RCCSystem, em Corpo Executivo > Postagem: Especialização."
+        },
+        {
+          "tipo": "descricao",
+          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+        },
+        {
+          "tipo": "texto",
+          "texto": "3. Qual a punição exclusiva do Corpo Executivo?"
+        },
+        {
+          "tipo": "descricao",
+          "texto": "Resposta: Regresso de Especialização."
+        },
+        {
+          "tipo": "descricao",
+          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+        },
+        {
+          "tipo": "texto",
+          "texto": "4. Cite uma ocasião que permita a reforma de um executivo?"
+        },
+        {
+          "tipo": "descricao",
+          "texto": "Resposta: Caso tenham iniciado suas carreira como Trainee ou tenham se reintegrado de Analista e não tenham efetuado compra de cargos; Ser portador da Especialização Avançada; Enviando um pedido à Corregedoria."
+        },
+        {
+          "tipo": "descricao",
+          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+        },
+        {
+          "tipo": "titulo",
+          "texto": "CONCLUSÃO"
+        },
+        {
+          "tipo": "descricao",
+          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+        },
+        {
+          "tipo": "texto",
+          "texto": "Parabéns! Você concluiu o Curso de Introdução ao Corpo Executivo."
+        },
+        {
+          "tipo": "texto",
+          "texto": "Você pode, de maneira opcional, adicionar a sigla da aula ao fim da sua missão: [CICE]."
+        },
+        {
+          "tipo": "descricao",
+          "texto": "↳ O trecho acima é obrigatório somente caso você, professor, esteja aplicando aula a um sargento/secretário."
+        },
+        {
+          "tipo": "descricao",
+          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+        },
+        {
+          "tipo": "texto",
+          "texto": "Aguarde um momento, estarei realizando a postagem de conclusão do curso."
+        },
+        {
+          "tipo": "descricao",
+          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+        },
+        {
+          "tipo": "texto",
+          "texto": "Vamos voltar ao batalhão."
+        },
+        {
+          "tipo": "descricao",
+          "texto": "↳ O Curso de Introdução ao Corpo Executivo deve ser postado somente nos formulários da companhia."
+        },
+      ]
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "titulo",
+      "texto": "FEEDBACK"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "↳ Verifique se o mentor registrou corretamente as capturas de tela do acompanhamento na planilha, garantindo que estejam completas, sem cortes, com a data e horário precisos, conforme o padrão estabelecido."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "↳ Ao final do acompanhamento, será essencial identificar e destacar todos os erros cometidos pelo mentor, como falhas na conferência de horário inicial da aula na planilha, negligência ao identificar pulos de linha ou a ausência de observações sobre a necessidade de adotar uma abordagem mais didática ao utilizar os balões. Essas falhas devem ser apontadas de forma construtiva e detalhada, com sugestões claras de como melhorar o processo, sempre visando o desenvolvimento contínuo do mentor e o aprimoramento de sua abordagem."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #ff0000;'>IMPORTANTE: Caso um professor omita ou altere algum ponto do script na presença do mentor, este deverá intervir e orientar o professor a retomar o procedimento correto. Se o professor se recusar a seguir a orientação, a situação deve ser devidamente reportada ao DRI.</span>"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "titulo",
+      "texto": "CONCLUSÃO"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Parabéns, você foi aprovado na capacitação prática de mentores!"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Com isso, você conquistou 50% da sua meta desta semana."
+    },
+    {
+      "tipo": "texto",
+      "texto": "Sua aprovação também abre portas para futuras promoções a capacitador, caso continue demonstrando excelência em suas atividades."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Lembre-se de manter total atenção durante seus acompanhamentos, a fim de evitar notificações do nosso setor de fiscalização."
+    },
+    {
+      "tipo": "texto",
+      "texto": "Você está dispensado!"
+    },
   ]
 }
