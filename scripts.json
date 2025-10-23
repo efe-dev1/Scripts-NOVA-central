@@ -780,7 +780,7 @@
     },
     {
       "tipo": "descricao",
-      "texto": "<span style=\"color: #ff0000; font-size: 12px;\">O conteúdo desta aplicação é 100% remoto.</span>"
+      "texto": "<span style=\"color: #ff0000; font-size: 12px;\">O conteúdo desta aplicação is 100% remoto.</span>"
     },
     {
       "tipo": "spoiler",
@@ -1276,7 +1276,10 @@
   "AFP": [
     {
       "tipo": "instrucoes",
-      "texto": "<li>Nenhuma parte do script pode ser negligenciada. Aplique cada uma delas;</li><li>Procure ter uma abordagem calma e paciente com o aluno, usando um linguajar que possa o ensinar da melhor maneira possível;</li><li>Em caso de saída do aluno, verifique se a postagem é permitida conforme o Regimento Interno;</li><li>É obrigatório e seu dever verificar se o policial já tem a aula ou é ativo no RCC System.</li><li>Caso o policial reprove, você poderá reaplicar a aula apenas mais uma vez.</li><li>Em caso de aulas para o mesmo executivo, pode pular a introdução e ir direto aos spoilers de \"slide\" ou \"jogo\".</li>"
+      "texto": "<li>Nenhuma parte do script pode ser negligenciada. Aplique cada uma delas;</li><li>Procure ter uma abordagem calma e paciente com o aluno, usando um linguajar que possa o ensinar da melhor maneira possível;</li><li>Em caso de saída do aluno, verifique se a postagem é permitida conforme o Regimento Interno;</li><li>É obrigatório e seu dever verificar se o policial já tem a aula ou é ativo no RCC System.</li><li>Caso o policial reprove, você poderá reaplicar a aula apenas mais uma vez.</li><li>Em caso de aulas para o mesmo executivo, pode pular a introdução e ir direto aos spoilers de \"slide\" ou \"jogo\".</li>",
+      "link": "https://www.policiarcc.com/memberlist",
+      "linkText": "Clique aqui para conferir se o policial tem conta ativa no fórum",
+      "linkIcon": "fas fa-laptop"
     },
     {
       "tipo": "descricao",
@@ -1638,7 +1641,7 @@
     },
     {
       "tipo": "descricao",
-      "texto": "d) Nick infringe qualquer um dos casos dispostos na política de nicknames;"
+      "texto": "d) Nick infringe qualquer um dos casos dispostos na política of nicknames;"
     },
     {
       "tipo": "descricao",
@@ -1666,7 +1669,7 @@
     },
     {
       "tipo": "descricao",
-      "texto": "Resposta: Solicitando que ele envie uma Mensagerm Privada no fórum."
+      "texto": "Resposta: Solicitando que ele envie uma Mensagem Privada no fórum."
     },
     {
       "tipo": "descricao",
@@ -1748,7 +1751,7 @@
         },
         {
           "tipo": "descricao",
-          "texto": "↳ Leve-o ao batalhão caso não queira refazer novamente. "
+          "texto": "↳ Leve-o ao batalhão caso não queira refazer novamente."
         }
       ]
     }
@@ -1950,13 +1953,16 @@
     },
     {
       "tipo": "descricao",
-      "texto": "↳ O Curso de Introdução ao Corpo Executivo deve be postado somente nos formulários da companhia."
+      "texto": "↳ O Curso de Introdução ao Corpo Executivo deve ser postado somente nos formulários da companhia."
     }
   ],
   "AFCE": [
     {
       "tipo": "instrucoes",
-      "texto": "<li>Nenhuma parte do script pode ser negligenciada. Aplique cada uma delas;</li><li>Procure ter uma abordagem calma e paciente com o aluno, usando um linguajar que possa o ensinar da melhor maneira possível;</li><li>Em caso de saída do aluno, verifique se a postagem é permitida conforme o Regimento Interno;</li><li>É obrigatório e seu dever verificar se o policial já tem a aula ou é ativo no RCC System.</li>"
+      "texto": "<li>Nenhuma parte do script pode ser negligenciada. Aplique cada uma delas;</li><li>Procure ter uma abordagem calma e paciente com o aluno, usando um linguajar que possa o ensinar da melhor maneira possível;</li><li>Em caso de saída do aluno, verifique se a postagem é permitida conforme o Regimento Interno;</li><li>É obrigatório e seu dever verificar se o policial já tem a aula ou é ativo no RCC System.</li>",
+      "link": "https://efe-check.netlify.app/",
+      "linkText": "Clique aqui para conferir se o policial está apto a receber o curso",
+      "linkIcon": "fas fa-file-excel"
     },
     {
       "tipo": "descricao",
@@ -2072,7 +2078,7 @@
     },
     {
       "tipo": "descricao",
-      "texto": "Resposta: - Ter os requisitos da Especialização Básica; - Ter adentrado em uma companhia; - Ter o Curso de Formação de Oficiais (CFO); - Ser Oficial do Corpo Executivo; - Ter 14 dias no Corpo Executivo; - Ter avaliação da Diretoria, ser membro do Esquadrão do Corpo Executivo, ter sido promovido no oficialato ou concluir a Supervisão de Avanço de Especialização, aplicada pelo Esquadrão do Corpo Executivo.</span>"
+      "texto": "Resposta: - Ter os requisitos da Especialização Básica; - Ter adentrado em uma companhia; - Ter o Curso de Formação de Oficiais (CFO); - Ser Oficial do Corpo Executivo; - Ter 14 dias no Corpo Executivo; - Ter avaliação da Diretoria, ser membro do Esquadrão do Corpo Executivo, ter sido promovido no oficialato ou concluir a Supervisão de Avanço de Especialização, aplicada pelo Esquadrão do Corpo Executivo."
     },
     {
       "tipo": "descricao",
@@ -2158,7 +2164,10 @@
   "AvCE": [
     {
       "tipo": "instrucoes",
-      "texto": "<li>Nenhuma parte do script pode ser negligenciada. Aplique cada uma delas;</li><li>Procure ter uma abordagem calma e paciente com o aluno, usando um linguajar que possa o ensinar da melhor maneira possível;</li><li>Em case de saída do aluno, verifique se a postagem é permitida conforme o Regimento Interno;</li><li>É obrigatório e seu dever verificar se o policial já tem a aula ou é ativo no RCC System.</li>"
+      "texto": "<li>Nenhuma parte do script pode ser negligenciada. Aplique cada uma delas;</li><li>Procure ter uma abordagem calma e paciente com o aluno, usando um linguajar que possa o ensinar da melhor maneira possível;</li><li>Em caso de saída do aluno, verifique se a postagem é permitida conforme o Regimento Interno;</li><li>É obrigatório e seu dever verificar se o policial já tem a aula ou é ativo no RCC System.</li>",
+      "link": "https://efe-check.netlify.app/",
+      "linkText": "Clique aqui para conferir se o policial possui o Certificado de Formação de Executivos (CFE)",
+      "linkIcon": "fas fa-file-excel"
     },
     {
       "tipo": "descricao",
@@ -2222,7 +2231,7 @@
     },
     {
       "tipo": "descricao",
-      "texto": "Resposta: Superior: senhor + patente/cargo + nick. Subalterno ou par: patente/cargo + nick.</span>"
+      "texto": "Resposta: Superior: senhor + patente/cargo + nick. Subalterno ou par: patente/cargo + nick."
     },
     {
       "tipo": "descricao",
@@ -2234,7 +2243,7 @@
     },
     {
       "tipo": "descricao",
-      "texto": "Resposta: Missão, farda e emblema.</span>"
+      "texto": "Resposta: Missão, farda e emblema."
     },
     {
       "tipo": "descricao",
@@ -2294,7 +2303,7 @@
     },
     {
       "tipo": "descricao",
-      "texto": "Resposta: Oficial da Guarda: É o responsável por comandar todo o batalhão e pelo comando sentido quando um superior de maior pantente/cargo entra no batalhão. Cabo da Guarda: Comandar a recepção, retirar dúvidas dos policiais, organizar a troca de policiais e dar sentido após o Oficial da Guarda. Auxiliar o Cabo da Guarda: no exercício de suas funções, retirar as dúvidas dos recepcionistas, permitir a ausência e/ou retirada dos recepcionistas, prestar auxílio na hora de subalternos assumirem superiores e kickar os civis mal intencionados."
+      "texto": "Resposta: Oficial da Guarda: É o responsável por comandar todo o batalhão e pelo comando sentido quando um superior de maior patente/cargo entra no batalhão. Cabo da Guarda: Comandar a recepção, retirar dúvidas dos policiais, organizar a troca de policiais e dar sentido após o Oficial da Guarda. Auxiliar do Cabo da Guarda: no exercício de suas funções, retirar as dúvidas dos recepcionistas, permitir a ausência e/ou retirada dos recepcionistas, prestar auxílio na hora de subalternos assumirem superiores e kickar os civis mal intencionados."
     },
     {
       "tipo": "descricao",
@@ -2475,7 +2484,7 @@
     {
       "tipo": "texto",
       "texto": "Se não houver dúvidas, você está dispensado."
-    },
+    }
   ],
   "CPP": [
     {
@@ -2488,7 +2497,7 @@
     },
     {
       "tipo": "texto",
-      "texto": "Saudações, professor. Sou o capacitador responsável por sua capacitação prática, que consiste na simulação de uma aplicação convencional do curso “APA”. Durante essa simulação, assumirei o papel de secretário, enquanto você ministrará o curso como em uma aula real."
+      "texto": "Saudações, professor. Sou o capacitador responsável por sua capacitação prática, que consiste na simulação de uma aplicação convencional do curso \"APA\". Durante essa simulação, assumirei o papel de secretário, enquanto você ministrará o curso como em uma aula real."
     },
     {
       "tipo": "descricao",
@@ -2528,7 +2537,7 @@
     },
     {
       "tipo": "instrucoes",
-      "texto": "<li>Escolha o modo “SLIDES”.</li><li>Durante o teste teórico, erre obrigatoriamente uma questão para avaliar a correção do professor. Se ele não corrigir, explique isso ao final da aula, nos feedbacks.</li><li>Qualquer pulo de script deve ser notificado imediatamente, reforçando a proibição.</li>"
+      "texto": "<li>Escolha o modo \"SLIDES\".</li><li>Durante o teste teórico, erre obrigatoriamente uma questão para avaliar a correção do professor. Se ele não corrigir, explique isso ao final da aula, nos feedbacks.</li><li>Qualquer pulo de script deve ser notificado imediatamente, reforçando a proibição.</li>"
     },
     {
       "tipo": "descricao",
@@ -2613,7 +2622,7 @@
     {
       "tipo": "texto",
       "texto": "Desejo um bom progresso na companhia! Está dispensado."
-    },
+    }
   ],
   "CPM": [
     {
@@ -2698,7 +2707,7 @@
         },
         {
           "tipo": "texto",
-          "texto": "Avise-me quando terminar de ler. Você terá 10 minutos para todo o conteúdo da O título da MP é: [EFE] Slides - Curso de Introdução ao Corpo Executivo (CICE) Mensagem Privada. Evite dormir enviando balões de fala a cada minuto. Pode começar."
+          "texto": "Avise-me quando terminar de ler. Você terá 10 minutos para ler todo o conteúdo da Mensagem Privada. Evite dormir enviando balões de fala a cada minuto. Pode começar."
         },
         {
           "tipo": "descricao",
@@ -2827,7 +2836,7 @@
         {
           "tipo": "descricao",
           "texto": "↳ O Curso de Introdução ao Corpo Executivo deve ser postado somente nos formulários da companhia."
-        },
+        }
       ]
     },
     {
@@ -2889,8 +2898,380 @@
     {
       "tipo": "texto",
       "texto": "Você está dispensado!"
+    }
+  ],
+  "CED": [
+    {
+      "tipo": "titulo",
+      "texto": "[INTRODUÇÃO]"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Saudações, executivo. Sou o capacitador responsável por sua formação executiva documental, voltada ao aprimoramento da navegação e análise de documentos. Nesta capacitação, você aprenderá a encontrar as informações com rapidez e precisão, facilitando sua atuação na Polícia RCC."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Alguma dúvida?"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "spoiler",
+      "texto": "SLIDE: <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+      "conteudo": [
+        {
+          "tipo": "descricao",
+          "texto": "<span style='color: red;'>Em hipótese alguma fale a palavra LINK ou tente enviar o link de forma de direta.</span>"
+        },
+        {
+          "tipo": "descricao",
+          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+        },
+        {
+          "tipo": "texto",
+          "texto": "Abra seu navegador e pesquise por Police RCC."
+        },
+        {
+          "tipo": "texto",
+          "texto": "Clique no primeiro item que aparecer nos resultados."
+        },
+        {
+          "tipo": "texto",
+          "texto": "Ao acessar a aba, procure e clique em Acessar Cursos."
+        },
+        {
+          "tipo": "texto",
+          "texto": "Depois, selecione a opção EFE e entre no EFE PORTAL."
+        },
+        {
+          "tipo": "texto",
+          "texto": "Dentro do portal, basta escolher a aula: Cap. Executiva Documental!"
+        }
+      ]
+    },
+    {
+      "tipo": "texto",
+      "texto": "Alguma dúvida sobre o conteúdo?"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "titulo",
+      "texto": "[TESTE TEÓRICO]"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Agora, farei perguntas sobre a navegação nos documentos, destacando palavras-chave para que você aprenda a utilizar o conteúdo da aula corretamente. Abra o Código de Conduta Militar - Disposições Gerais para iniciarmos."
+    },
+    {
+      "tipo": "texto",
+      "texto": "Não há reprovação neste teste, mas, em caso de erro, você será orientado."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Alguma dúvida?"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "↳ Aguarde a resposta e prossiga."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "01. Qual a punição para o VIP que ficar com VISIBILIDADE do perfil oculta?"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "➥ Neste caso, a palavra chave é VISIBILIDADE, pesquisando ela nos documentos vai mostrar a divisão. A punição sendo um rebaixamento imediato e, em casos de permanência, sofrerão um rebaixamento a cada 24 horas e perderão seus direitos, caso sejam portadores."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "02. Qual a punição para o oficial que não postar a INSTRUÇÃO INICIAL em até 1 hora?"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "➥ Neste caso, a palavra chave é INSTRUÇÃO INICIAL, pesquisando ela no CCM - DG, vai puxar o artigo. A punição é o recebimento de 50 medalhas efetivas negativas por Abandono de Dever/Negligência."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "03. Qual é a punição para o militar enquadrado em PULO DE 10 linhas de script?"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "➥ A palavra chave é PULO DE, pesquisando ela no CCM - DG aparece as variantes, tendo apenas que assimilar com a pergunta. Neste caso, é e rebaixamento e expulsão."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "titulo",
+      "texto": "[CONCLUSÃO]"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Espero que tenha absorvido todos os pontos essenciais do curso, pois ela é fundamental para o seu desenvolvimento documental."
+    },
+    {
+      "tipo": "texto",
+      "texto": "Caso ainda tenha alguma dúvida, não hesite em entrar em contato."
+    },
+    {
+      "tipo": "texto",
+      "texto": "Você está dispensado."
+    }
+  ],
+  "AEB": [
+    {
+      "tipo": "titulo",
+      "texto": "INTRODUÇÃO"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Saudações, executivo. Sou o capacitador responsável por sua Avaliação Executiva Básica (AEB). Nesta etapa, explicarei como interpretar as perguntas do CFO e fornecerei dicas para respondê-las corretamente."
+    },
+    {
+      "tipo": "texto",
+      "texto": "A avaliação consiste em seis perguntas e, caso cometa algum erro, você será corrigido com uma explicação detalhada."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "titulo",
+      "texto": "DICAS IMPORTANTES"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "O Curso de Formação de Oficiais (CFO) possui um edital para a avaliação final, no qual estão descritos todos os requisitos e informações necessárias para a prova."
+    },
+    {
+      "tipo": "texto",
+      "texto": "Para acessá-lo siga os seguintes passos:"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Entre no fórum em \"listagem de checagem\";"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Clique na pasta CFO;"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Abra o tópico \"edital\"."
+    },
+    {
+      "tipo": "texto",
+      "texto": "A avaliação foca no essencial para um oficial intermediário, cobrando conhecimentos diretos e objetivos sobre os documentos. Não exige um alto nível de interpretação, mas sim a compreensão clara e precisa do conteúdo, sem mistério."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Além disso, a Escola de Formação de Executivos oferece a Capacitação Executiva Documental, um curso voltado para aprimorar seus estudos e facilitar o entendimento dos documentos. Caso tenha interesse, posso aplicá-lo para você após essa avaliação."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Alguma dúvida?"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "titulo",
+      "texto": "TESTE TEÓRICO"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Como mencionado na introdução, este teste consiste em 6 perguntas. Caso você erre, fornecerei a correção com a resposta correta e a localização nos documentos para consulta. Se houver alguma dúvida, não hesite em me contatar."
+    },
+    {
+      "tipo": "texto",
+      "texto": "Podemos começar?"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "01) Qual a punição e o crime aplicáveis a um militar que conceder uma gratificação a um subalterno por desempenho como sentinela, sem que este tenha completado 15 minutos na função?"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "Resposta:"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "50 medalhas efetivas negativas por Abandono de Dever/Negligência. Local nos documentos: CCM - Disp-Gerais, Capítulo XI."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "02) Qual a punição e crime aplicável a um oficial do Corpo Militar que promover alguém sem que a pessoa possua os dias mínimos?"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "Resposta:"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "Advertência Escrita por Abandono de Dever/Negligência, inciso VI. Local nos documentos: CPM - Capítulo II."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "03) Qual é a única situação em que a expulsão do grupo de tarefas não resultará em 100 medalhas efetivas negativas?"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "Resposta:"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "Quando for por pulo de script. Local nos documentos: CCM - Disp-Gerais, Capítulo IX."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "04) Qual a punição e o crime aplicáveis a um oficial do Corpo Militar que contratar um civil em modo offline?"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "Resposta:"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "50 medalhas efetivas negativas por Abandono de Dever/Negligência. Local nos documentos: CCM - Disp-Gerais, Capítulo III."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "05) Qual a punição para o oficial ou aspirante a oficial que dormir na sala de estado?"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "Resposta:"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "10 minutos apresentando-armas."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "Local nos documentos: CCM - Disp-Gerais, Capítulo IV."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "06) Qual é a punição e o crime aplicáveis ao oficial do CE com EI que não atualizar suas tarefas em até 48 horas após a promoção em grupos internos?"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "Resposta:"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "Advertência Escrita por Abandono de Dever/Negligência."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "Local nos documentos: CCM - Disp-Complementares, Capítulo I."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "titulo",
+      "texto": "FINALIZAÇÃO"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Parabéns, você concluiu com sucesso sua avaliação executiva básica."
+    },
+    {
+      "tipo": "texto",
+      "texto": "Caso surja qualquer dúvida, fique à vontade para me procurar."
+    },
+    {
+      "tipo": "texto",
+      "texto": "Desejo-lhe muito sucesso em sua jornada em busca do certificado de conclusão do Curso de Formação de Oficiais. A EFE estará sempre à disposição para auxiliá-lo sempre que necessário."
     },
   ]
 }
-
-
