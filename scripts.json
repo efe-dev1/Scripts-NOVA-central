@@ -1959,10 +1959,7 @@
   "AFCE": [
     {
       "tipo": "instrucoes",
-      "texto": "<li>Nenhuma parte do script pode ser negligenciada. Aplique cada uma delas;</li><li>Procure ter uma abordagem calma e paciente com o aluno, usando um linguajar que possa o ensinar da melhor maneira possível;</li><li>Em caso de saída do aluno, verifique se a postagem é permitida conforme o Regimento Interno;</li><li>É obrigatório e seu dever verificar se o policial já tem a aula ou é ativo no RCC System.</li>",
-      "link": "https://efe-check.netlify.app/",
-      "linkText": "Clique aqui para conferir se o policial está apto a receber o curso",
-      "linkIcon": "fas fa-file-excel"
+      "texto": "<li>Nenhuma parte do script pode ser negligenciada. Aplique cada uma delas;</li><li>Procure ter uma abordagem calma e paciente com o aluno, usando um linguajar que possa o ensinar da melhor maneira possível;</li><li>Em caso de saída do aluno, verifique se a postagem é permitida conforme o Regimento Interno;</li><li>É obrigatório e seu dever verificar se o policial já tem a aula ou é ativo no RCC System.</li>"
     },
     {
       "tipo": "descricao",
@@ -2901,3 +2898,4 @@
     },
   ]
 }
+
