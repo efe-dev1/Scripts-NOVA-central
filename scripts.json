@@ -3265,7 +3265,7 @@
       "texto": "Desejo-lhe muito sucesso em sua jornada em busca do certificado de conclusão do Curso de Formação de Oficiais. A EFE estará sempre à disposição para auxiliá-lo sempre que necessário."
     }
   ],
-  "GRAD BÁSICA": [
+  "GB": [
     {
       "tipo": "titulo",
       "texto": "INTRODUÇÃO"
@@ -3533,7 +3533,7 @@
       ]
     }
   ],
-  "GRAD INTERMEDIÁRIA": [
+  "GI": [
     {
       "tipo": "titulo",
       "texto": "INTRODUÇÃO"
@@ -3695,7 +3695,7 @@
       ]
     }
   ],
-  "GRAD AVANÇADA": [
+  "GA": [
     {
       "tipo": "titulo",
       "texto": "INTRODUÇÃO"
@@ -3854,3 +3854,4 @@
     }
   ]
 }
+
