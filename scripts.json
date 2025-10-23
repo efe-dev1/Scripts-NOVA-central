@@ -3264,5 +3264,597 @@
       "tipo": "texto",
       "texto": "Desejo-lhe muito sucesso em sua jornada em busca do certificado de conclusão do Curso de Formação de Oficiais. A EFE estará sempre à disposição para auxiliá-lo sempre que necessário."
     }
+  ],
+  "GRAD BÁSICA": [
+    {
+      "tipo": "titulo",
+      "texto": "INTRODUÇÃO"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Saudações, professor. Seja bem-vindo à Escola de Formação de Executivos!"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Eu sou o(a) graduador(a) responsável pela sua Graduação Básica."
+    },
+    {
+      "tipo": "texto",
+      "texto": "Em caso de dúvidas, não hesite em acenar que irei retirar suas dúvidas com maior prazer!"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Você possui uma TAG ativa no RCCSystem?"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "↳ Caso a resposta seja SIM, prossiga para o envio dos slides; do contrário, vá para o spoiler a seguir."
+    },
+    {
+      "tipo": "spoiler",
+      "texto": "<span style=\"font-size: 14px;\">Caso a resposta seja NÃO:</span>  <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+      "conteudo": [
+        {
+          "tipo": "texto",
+          "texto": "Para criar uma TAG no system, siga os passos abaixo:"
+        },
+        {
+          "tipo": "texto",
+          "texto": "Acesse sua conta, vá na aba Requerimentos e depois em TAGs."
+        },
+        {
+          "tipo": "texto",
+          "texto": "Crie uma TAG com apenas 3 letras/números do seu nick."
+        },
+        {
+          "tipo": "texto",
+          "texto": "Exemplo: Hiago → [HaO]"
+        }
+      ]
+    },
+    {
+      "tipo": "spoiler",
+      "texto": "COM CONTA NO FÓRUM: <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+      "conteudo": [
+        {
+          "tipo": "texto",
+          "texto": "Agora, vou enviar uma Mensagem Privada para que acesse o conteúdo da graduação."
+        },
+        {
+          "tipo": "texto",
+          "texto": "Atente-se ao PIN de acesso que estará na MP."
+        },
+        {
+          "tipo": "botao",
+          "texto": "Clique AQUI para enviar a MP.",
+          "url": "https://www.policiarcc.com/h190-efe-gerador-de-graduacao"
+        },
+        {
+          "tipo": "texto",
+          "texto": "Avise-me ao terminar a leitura."
+        }
+      ]
+    },
+    {
+      "tipo": "spoiler",
+      "texto": "SEM CONTA NO FÓRUM: <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+      "conteudo": [
+        {
+          "tipo": "descricao",
+          "texto": "<span style='color: red;'>Em hipótese alguma fale a palavra LINK ou tente enviar o link de forma de direta.</span>"
+        },
+        {
+          "tipo": "descricao",
+          "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+        },
+        {
+          "tipo": "texto",
+          "texto": "Abra seu navegador e pesquise por Police RCC."
+        },
+        {
+          "tipo": "texto",
+          "texto": "Clique no primeiro item que aparecer nos resultados."
+        },
+        {
+          "tipo": "texto",
+          "texto": "Ao acessar a aba, procure e clique em Acessar Cursos."
+        },
+        {
+          "tipo": "texto",
+          "texto": "Depois, selecione a opção EFE e entre no EFE PORTAL."
+        },
+        {
+          "tipo": "texto",
+          "texto": "Dentro do portal, basta escolher: GRADUAÇÃO BÁSICA!"
+        },
+        {
+          "tipo": "texto",
+          "texto": "O PIN de acesso é: PROF-GR1"
+        }
+      ]
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Alguma dúvida?"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "↳ Caso a resposta seja NÃO, prossiga."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "titulo",
+      "texto": "TESTE TEÓRICO"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "↳ Caso haja mais de um professor, solicite o uso do sussurro para envio das respostas."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Agora, responderá um questionário para avaliar seu conhecimento sobre o conteúdo"
+    },
+    {
+      "tipo": "texto",
+      "texto": "adquirido durante a leitura. Boa sorte!"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "↳ Graduador, seja minimamente criterioso para quaisquer respostas incorretas; instrua o professor a responder corretamente."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "Caso veja descaso por parte dele, isto é, não leu o conteúdo e respondendo erroneamente várias vezes, reprove-o."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "1. Qual subfórum estão os scripts de aulas?"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "➥ [EFE] Central de Aulas."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "2. O que deve ser feito caso não consiga bater a meta?"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "➥ Justificar a meta no formulário."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "3. Qual prazo para postagem de aulas? E quais os dois locais onde deverão ser postadas?"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "➥ 01 hora. No formulário (FÓRUM) e no RCCSystem."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "4. Qual é a meta mínima semanal?"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "➥ A aplicação de, no mínimo, DUAS AULAS semanalmente."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "titulo",
+      "texto": "CONCLUSÃO"
+    },
+    {
+      "tipo": "spoiler",
+      "texto": "APROVADO: <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+      "conteudo": [
+        {
+          "tipo": "texto",
+          "texto": "Parabéns, você foi aprovado(a) na Graduação Básica e está apto a aplicar aulas!"
+        },
+        {
+          "tipo": "texto",
+          "texto": "Lembre-se que as aulas devem ser realizadas por ordem de aplicação,"
+        },
+        {
+          "tipo": "texto",
+          "texto": "seguindo completamente o script."
+        },
+        {
+          "tipo": "texto",
+          "texto": "A inversão de aulas e o pulo de script são crimes graves e passíveis de punições previstas"
+        },
+        {
+          "tipo": "texto",
+          "texto": "no Código Penal Militar."
+        },
+        {
+          "tipo": "texto",
+          "texto": "Sempre olhe suas Mensagens Privadas para se informar sobre mudanças na companhia e"
+        },
+        {
+          "tipo": "texto",
+          "texto": "avisos gerais"
+        }
+      ]
+    },
+    {
+      "tipo": "spoiler",
+      "texto": "REPROVADO: <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+      "conteudo": [
+        {
+          "tipo": "texto",
+          "texto": "Infelizmente você foi reprovado na Graduação Básica."
+        },
+        {
+          "tipo": "texto",
+          "texto": "Não se preocupe, não será prejudicado e poderá refazê-la agora mesmo."
+        },
+        {
+          "tipo": "texto",
+          "texto": "Vamos revisar o conteúdo e refazer agora mesmo?"
+        }
+      ]
+    }
+  ],
+  "GRAD INTERMEDIÁRIA": [
+    {
+      "tipo": "titulo",
+      "texto": "INTRODUÇÃO"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Saudações, mentor. Parabéns por sua promoção e seja bem-vindo(a) à"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Graduação Intermediária."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Agora, vou enviar uma Mensagem Privada para que acesse o conteúdo da graduação."
+    },
+    {
+      "tipo": "texto",
+      "texto": "Atente-se ao PIN de acesso que estará na MP."
+    },
+    {
+      "tipo": "botao",
+      "texto": "Clique AQUI para enviar a MP.",
+      "url": "https://www.policiarcc.com/h190-efe-gerador-de-graduacao"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Avise-me ao terminar a leitura."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Alguma dúvida?"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "titulo",
+      "texto": "TESTE TEÓRICO"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "↳ Caso haja mais de um mentor, solicite o uso do sussurro para envio das respostas."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Agora, responderá um questionário para avaliar seu conhecimento sobre o conteúdo"
+    },
+    {
+      "tipo": "texto",
+      "texto": "adquirido durante a leitura. Caso erre duas questões, será reprovado."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "1. Em quais lugares deve-se postar o acompanhamento?"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "➥ [EFE] Relatório de Mentores"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "2. Quais são as modalidades disponíveis para o cumprimento da meta de mentor?"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "➥ Acompanhamento, Aula Suplementar e Intermediação de Aula."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "3. Qual é o limite estabelecido para a modalidade de aula suplementar?"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "➥ Uma por semana."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "4. No acompanhamento e mentoria, onde os prints devem ser capturados?"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "➥ No início e no final."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "titulo",
+      "texto": "CONCLUSÃO"
+    },
+    {
+      "tipo": "spoiler",
+      "texto": "APROVADO: <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+      "conteudo": [
+        {
+          "tipo": "texto",
+          "texto": "Parabéns, você foi aprovado na Graduação Intermediária e está"
+        },
+        {
+          "tipo": "texto",
+          "texto": "apto a aplicar atividades como mentor. Caso tenha dúvidas, leia"
+        },
+        {
+          "tipo": "texto",
+          "texto": " o manual da sua função, ele pode ajudá-lo caso possua dúvidas."
+        }
+      ]
+    },
+    {
+      "tipo": "spoiler",
+      "texto": "REPROVADO: <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+      "conteudo": [
+        {
+          "tipo": "texto",
+          "texto": "Infelizmente você foi reprovado na Graduação Intermediária."
+        },
+        {
+          "tipo": "texto",
+          "texto": "Não se preocupe, não será prejudicado e poderá refazê-la agora mesmo."
+        },
+        {
+          "tipo": "texto",
+          "texto": "Vamos revisar o conteúdo e refazer agora mesmo?"
+        }
+      ]
+    }
+  ],
+  "GRAD AVANÇADA": [
+    {
+      "tipo": "titulo",
+      "texto": "INTRODUÇÃO"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Saudações, capacitador. Parabéns por sua promoção e seja bem-vindo(a) à"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Graduação Avançada. "
+    },
+    {
+      "tipo": "texto",
+      "texto": "Agora, vou enviar uma Mensagem Privada para que acesse o conteúdo da graduação."
+    },
+    {
+      "tipo": "texto",
+      "texto": "Atente-se ao PIN de acesso que estará na MP."
+    },
+    {
+      "tipo": "botao",
+      "texto": "Clique AQUI para enviar a MP.",
+      "url": "https://www.policiarcc.com/h190-efe-gerador-de-graduacao"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Avise-me ao terminar a leitura."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Alguma dúvida?"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "titulo",
+      "texto": "TESTE TEÓRICO"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "↳ Caso haja mais de um capacitador, solicite o uso do sussurro para envio das respostas."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "Agora, responderá um questionário para avaliar seu conhecimento sobre o conteúdo"
+    },
+    {
+      "tipo": "texto",
+      "texto": "adquirido durante a leitura. Caso erre duas questões, será reprovado."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "1. Em quais lugares deve-se postar caso o aluno seja aprovado na capacitação?"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "➥ [EFE] Relatório de Função"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "2. Quais são as modalidades disponíveis para o cumprimento da meta de capacitador?"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "➥ CPP, CTP, CPM, TCE, AEB e CED."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "3. Como identificar se o professor ou mentor tem capacitação?"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "➥ Verificando na listagem de membros se tem CCP, CCT ou CPM ao final da TAG."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "texto",
+      "texto": "4. Nas capacitações, quando as capturas de tela devem ser realizadas?"
+    },
+    {
+      "tipo": "descricao",
+      "texto": "➥ No início e no fim da aplicação."
+    },
+    {
+      "tipo": "descricao",
+      "texto": "<span style='color: #f8f8ff; font-size: 0px;'>.</span>"
+    },
+    {
+      "tipo": "titulo",
+      "texto": "CONCLUSÃO"
+    },
+    {
+      "tipo": "spoiler",
+      "texto": "APROVADO: <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+      "conteudo": [
+        {
+          "tipo": "texto",
+          "texto": "Parabéns, você foi aprovado na Graduação Avançada e está"
+        },
+        {
+          "tipo": "texto",
+          "texto": "apto a aplicar atividades como capacitador. Caso tenha dúvidas, leia"
+        },
+        {
+          "tipo": "texto",
+          "texto": "o manual da sua função, ele pode ajudá-lo caso possua dúvidas."
+        }
+      ]
+    },
+    {
+      "tipo": "spoiler",
+      "texto": "REPROVADO: <span class=\"seta\"><i class=\"fa-solid fa-chevron-down\"></i></span>",
+      "conteudo": [
+        {
+          "tipo": "texto",
+          "texto": "Infelizmente você foi reprovado na Graduação Avançada."
+        },
+        {
+          "tipo": "texto",
+          "texto": "Não se preocupe, não será prejudicado e poderá refazê-la agora mesmo."
+        },
+        {
+          "tipo": "texto",
+          "texto": "Deseja revisar o conteúdo e refazer agora mesmo?"
+        }
+      ]
+    }
   ]
 }
+
